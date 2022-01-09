@@ -1,0 +1,10 @@
+C:\Users\Keven Castilho\source\repos\Ragnarok Mobile Offline\bin\Debug\Ragnarok Mobile Offline.exe.config
+C:\Users\Keven Castilho\source\repos\Ragnarok Mobile Offline\bin\Debug\Ragnarok Mobile Offline.exe
+C:\Users\Keven Castilho\source\repos\Ragnarok Mobile Offline\bin\Debug\Ragnarok Mobile Offline.pdb
+C:\Users\Keven Castilho\source\repos\Ragnarok Mobile Offline\obj\Debug\Ragnarok Mobile Offline.csprojAssemblyReference.cache
+C:\Users\Keven Castilho\source\repos\Ragnarok Mobile Offline\obj\Debug\Ragnarok_Mobile_Offline.RPO.resources
+C:\Users\Keven Castilho\source\repos\Ragnarok Mobile Offline\obj\Debug\Ragnarok_Mobile_Offline.Properties.Resources.resources
+C:\Users\Keven Castilho\source\repos\Ragnarok Mobile Offline\obj\Debug\Ragnarok Mobile Offline.csproj.GenerateResource.cache
+C:\Users\Keven Castilho\source\repos\Ragnarok Mobile Offline\obj\Debug\Ragnarok Mobile Offline.csproj.CoreCompileInputs.cache
+C:\Users\Keven Castilho\source\repos\Ragnarok Mobile Offline\obj\Debug\Ragnarok Mobile Offline.exe
+C:\Users\Keven Castilho\source\repos\Ragnarok Mobile Offline\obj\Debug\Ragnarok Mobile Offline.pdb
